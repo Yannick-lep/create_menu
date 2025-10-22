@@ -1,0 +1,13 @@
+.entree-menu{
+    position: relative;
+    list-style-type: none;
+    padding: .5rem;
+    border: 1px red solid;
+    width: 50%;
+}
+
+.submenu{
+    position: absolute;
+    top: 0;
+    right: -60%;
+}
