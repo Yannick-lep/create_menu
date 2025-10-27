@@ -14,7 +14,7 @@ const createSubMenu = (value, li) => {
     const subMenuValues =["titre", "album", "artiste", "annee"];
     const icones = ["🎙️","🪕","🪗","🪇"];
     //Une boucle While pour executer les 4 instructions 
-    // suiva,ntes sur mon tableau subMenuValues
+    // suivantes sur mon tableau subMenuValues
     // avant d'écrire while
     //1er etape d'une boucle while c'est de déclarer un entier variable
     // let i = 0;
